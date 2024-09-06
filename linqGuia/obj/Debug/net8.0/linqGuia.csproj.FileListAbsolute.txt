@@ -1,0 +1,29 @@
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.exe
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.deps.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.runtimeconfig.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.AssemblyInfoInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.AssemblyInfo.cs
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.sourcelink.json
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\refint\linqGuia.dll
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.pdb
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.genruntimeconfig.cache
+D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 1\GuiasLINQ-PG02\linqGuia\linqGuia\obj\Debug\net8.0\ref\linqGuia.dll
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.AssemblyInfoInputs.cache
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.AssemblyInfo.cs
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.csproj.CoreCompileInputs.cache
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.dll
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\refint\linqGuia.dll
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.pdb
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.exe
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.deps.json
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.runtimeconfig.json
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.dll
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.pdb
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.genruntimeconfig.cache
+C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\ref\linqGuia.dll
