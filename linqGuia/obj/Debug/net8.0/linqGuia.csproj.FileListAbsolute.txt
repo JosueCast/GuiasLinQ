@@ -27,3 +27,4 @@ C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\bin\Debug\net8
 C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\bin\Debug\net8.0\linqGuia.pdb
 C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.genruntimeconfig.cache
 C:\Users\darks\Source\Repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\ref\linqGuia.dll
+C:\Users\darks\source\repos\GuiasLinQ\GuiasLINQ\linqGuia\linqGuia\obj\Debug\net8.0\linqGuia.sourcelink.json

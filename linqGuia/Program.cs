@@ -134,6 +134,7 @@ IEnumerable<Habitante> listaCasaGothan = from objetoTemporalHabitante in ListaHa
                                          on objetoTemporalHabitante.IdCasa equals objetoTemporalCasa.IdCasa
                                          where objetoTemporalCasa.Ciudad == "Gothan City"
                                          select objetoTemporalHabitante;
+
 Console.WriteLine("----------------------------------------------------------------------------------------------");
 foreach (Habitante h in listaCasaGothan)
 {
@@ -166,4 +167,17 @@ if (CasaConFirsthOrDedault == null)
 }
 Console.WriteLine("existe !Si existe!");
 
+#endregion
+#region Last
+Casa ultimaCasa = ListaCasas.Last(temp => temp.IdCasa > 1);
+Console.WriteLine(ultimaCasa.datosCasa());
+Console.WriteLine("_____________________________________________________");
+var h1 = (from objHabitante in ListaHabitantes where objHabitante.Edad > 60 select objHabitante)
+    .LastOrDefault();
+if (h1 == null)
+{
+    Console.WriteLine("Algo fallo");
+    return;
+}
+Console.WriteLine(h1.datosHabitante());
 #endregion
