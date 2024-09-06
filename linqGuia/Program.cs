@@ -64,7 +64,7 @@ ListaHabitantes.Add(new Habitante
 {
     IdHabitante = 1,
     Nombre = "Bruno Diaz",
-    Edad = 36,
+    Edad = 18,
     IdCasa = 1
 });
 ListaHabitantes.Add(new Habitante
@@ -117,6 +117,46 @@ ListaHabitantes.Add(new Habitante
     IdCasa = 1
 });
 #endregion
+
+#region typeOf
+var listaEmpleados = new List<Empleado>() {
+    new Medico(){ nombre= "Jorge Casa" },
+    new Enfermero(){ nombre = "Raul Blanco"}
+};
+
+var medico = listaEmpleados.OfType<Medico>();
+Console.WriteLine(medico.Single().nombre);
+
+#endregion
+#region ElementAt
+var terceraCasa = ListaCasas.ElementAt(2);
+Console.WriteLine($"La tercera casa es {terceraCasa.datosCasa()}");
+
+var casaError = ListaCasas.ElementAtOrDefault(3);
+if (casaError != null) { Console.WriteLine($"La tercera casa es {casaError.datosCasa()}"); }
+
+var segundoHabitante = (from objetoTem in ListaHabitantes select objetoTem).ElementAtOrDefault(2);
+Console.WriteLine($" segundo habitante es : {segundoHabitante.datosHabitante()}");
+Console.ReadLine();
+#endregion
+
+#region single
+try
+{
+    var habitantes = ListaHabitantes.Single(variableTem => variableTem.Edad > 40 && variableTem.Edad < 70);
+    // Creando esta consulta pero con LinQ
+    var habitante2 = (from obtem in ListaHabitantes where obtem.Edad > 70 select obtem).SingleOrDefault();
+
+    Console.WriteLine($"habitante con menos de 20 años {habitantes.datosHabitante()}");
+    if (habitante2 != null) Console.WriteLine($"habitante con mas de 70 años {habitante2.datosHabitante()}");
+}
+catch (Exception)
+{
+    Console.WriteLine($"Ocurrio el error");
+}
+Console.ReadLine();
+#endregion
+
 #region SentenciasLinQ
 IEnumerable<Habitante> ListaEdad = from ObjetoProvicional
                                    in ListaHabitantes
@@ -140,7 +180,7 @@ foreach (Habitante h in listaCasaGothan)
 {
     Console.WriteLine(h.datosHabitante());
 }
-//Console.ReadLine();
+
 #endregion
 #region FirsthAndFirsthOrDefault
 Console.WriteLine("----------------------------------------------------------------------------------------------");
@@ -181,3 +221,4 @@ if (h1 == null)
 }
 Console.WriteLine(h1.datosHabitante());
 #endregion
+
